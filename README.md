@@ -1,2 +1,2 @@
 # Hello-world
-Just trying my gothub account
+Just trying my github account
